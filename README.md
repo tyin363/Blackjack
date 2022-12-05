@@ -1,3 +1,3 @@
 # Blackjack
 
-Blackjack game using Java
+Blackjack CLI game using Java
